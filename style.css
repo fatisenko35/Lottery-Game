@@ -35,3 +35,9 @@ body{
 }
 p{
     font-size: 1.8rem;}
+
+@media (max-width : 500px) {
+    p{
+        font-size: 1.4rem;
+    }
+}    
